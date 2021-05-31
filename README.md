@@ -1,3 +1,3 @@
 # client
 Contains various packages for client side
-准备升级2.0.0
+准备适配flutter 2.0
